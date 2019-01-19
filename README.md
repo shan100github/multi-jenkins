@@ -1,4 +1,4 @@
-# multi-jenkins
+# multi-jenkins monitor
 Display Multiple Jenkins Window in a single window
 
 Add "XFrame Filter Plugin" and "Chrome Frame Plugin" in Jenkins.
